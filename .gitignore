@@ -1,0 +1,9 @@
+.idea
+/vendor
+
+# phpunit junk
+.phpunit.result.cache
+
+/coverage
+
+composer.lock
