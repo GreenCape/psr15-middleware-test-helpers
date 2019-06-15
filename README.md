@@ -1,3 +1,7 @@
+[![Code Coverage](https://scrutinizer-ci.com/g/vmpublishing/psr15-middleware-test-helpers/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/vmpublishing/psr15-middleware-test-helpers/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/vmpublishing/psr15-middleware-test-helpers/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/vmpublishing/psr15-middleware-test-helpers/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/vmpublishing/psr15-middleware-test-helpers/badges/build.png?b=master)](https://scrutinizer-ci.com/g/vmpublishing/psr15-middleware-test-helpers/build-status/master)
+
 
 **WHAT**
 
