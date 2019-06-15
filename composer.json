@@ -1,5 +1,5 @@
 {
-    "name": "vmpublishing/psr15-middleware-test-tools",
+    "name": "vmpublishing/psr15-middleware-test-helpers",
     "description": "couple of often reused mocks for testing psr-15 middlewares",
     "type": "library",
     "require": {
